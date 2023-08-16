@@ -1,13 +1,11 @@
-- 👋 Hi, I’m @neelvx
-- 👀 I’m interested in UI Design and Frontend
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on Frontend or UI/UX Design
-- 📫 How to reach me codetone05@gmail.com
+## Hello ![176309783-0785949b-9127-417c-8b55-ab5a4333674e](https://github.com/neelvx/neelvx/assets/75300447/e29d79bc-6282-4337-813c-e560867373bf)
 
-Skills
+<hr>
+
+Skills <br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,react,angular,tailwind,bootstrap,php,postgres,mysql,git)](https://skillicons.dev)
 
-Tools
+Tools <br>
 [![My Skills](https://skillicons.dev/icons?i=figma,vscode,postman,github,gitlab)](https://skillicons.dev)
 <!---
 neelvx/neelvx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
