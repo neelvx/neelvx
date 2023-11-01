@@ -7,7 +7,7 @@ Skills <br><br>
 Tools <br><br>
 [![My Skills](https://skillicons.dev/icons?i=figma,vscode,postman,github,gitlab)](https://skillicons.dev)
 
-Social <br><br>
+Socials <br><br>
 [<kbd> <br> Web <br> </kbd>](https://wisnusepdev.vercel.app/)
 [<kbd> <br> LinkeIn <br> </kbd>](https://www.linkedin.com/in/wisnu-septioridho-pratomo-b89628237/)
 <!---
