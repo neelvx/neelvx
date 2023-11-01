@@ -8,7 +8,8 @@ Tools <br><br>
 [![My Skills](https://skillicons.dev/icons?i=figma,vscode,postman,github,gitlab)](https://skillicons.dev)
 
 Social <br><br>
-[<kbd> <br> Title <br> </kbd>][[Link](https://wisnusepdev.vercel.app/)]
+[<kbd> <br> Web <br> </kbd>](https://wisnusepdev.vercel.app/)
+[<kbd> <br> LinkeIn <br> </kbd>](https://www.linkedin.com/in/wisnu-septioridho-pratomo-b89628237/)
 <!---
 neelvx/neelvx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
